@@ -13,11 +13,12 @@
 
 > ⚠️ **About this fork**
 >
-> This fork was created for educational and contribution purposes.
-> I worked on two issues from the original Sablier Labs repository:
+> This fork was created for educational and contribution purposes. I worked on two issues from the original Sablier Labs
+> repository:
 >
 > • ✅ [Merged] Created a dedicated README for the `invariant` tests to improve clarity and usage documentation.  
-> • ⏳ [In review] Refactored tests in the `lockup` repo to externalize SVG and token URI data using Foundry’s `vm.readFile`.
+> • ⏳ [In review] Refactored tests in the `lockup` repo to externalize SVG and token URI data using Foundry’s
+> `vm.readFile`.
 >
 > All work was done in separate feature branches based on `staging`.  
 > This fork reflects my learning process and contributions to a real-world codebase using Foundry.
