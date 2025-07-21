@@ -23,6 +23,8 @@
 > All work was done in separate feature branches based on `staging`.  
 > This fork reflects my learning process and contributions to a real-world codebase using Foundry.
 
+In-depth documentation is available at docs.sablier.com.
+
 ## Background
 
 Sablier Lockup is a token distribution protocol that enables onchain vesting and airdrops. Our flagship model is the
